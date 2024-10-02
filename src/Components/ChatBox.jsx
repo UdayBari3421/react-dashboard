@@ -21,7 +21,7 @@ function ChatBox() {
       </span>
       <div className="flex justify-center items-center self-end gap-2">
         <BiCheckDouble className="text-blue-500" />
-        <span className="bg-[#E0F1E7] flex items-center justify-start w-fit p-2 rounded-tr-xl rounded-b-xl">
+        <span className="bg-[#E0F1E7] flex items-center justify-start w-fit p-2 rounded-tl-xl rounded-b-xl">
           <h2>Yes, of course, let's go!</h2>
           <p className="text-xs self-end text-gray-300">12.12</p>
         </span>
