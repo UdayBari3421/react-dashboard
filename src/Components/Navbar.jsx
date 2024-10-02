@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { RiSearch2Line } from "react-icons/ri";
-import Logo from "../assets/img/logo.png";
+import Logo from "../assets/img/LOGO.png";
 import { FiBell } from "react-icons/fi";
 import { PiGearSix } from "react-icons/pi";
 import { FaMoon, FaSun } from "react-icons/fa6";
